@@ -1,16 +1,16 @@
 {
   "files": {
     "main.css": "/static/css/main.073c9b0a.css",
-    "main.js": "/static/js/main.a941d42e.js",
+    "main.js": "/static/js/main.88d69075.js",
     "static/js/787.28cb0dcd.chunk.js": "/static/js/787.28cb0dcd.chunk.js",
-    "static/media/logo.svg": "/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "static/media/logoLAMA.png": "/static/media/logoLAMA.13390ea8766f51fe22b6.png",
     "index.html": "/index.html",
     "main.073c9b0a.css.map": "/static/css/main.073c9b0a.css.map",
-    "main.a941d42e.js.map": "/static/js/main.a941d42e.js.map",
+    "main.88d69075.js.map": "/static/js/main.88d69075.js.map",
     "787.28cb0dcd.chunk.js.map": "/static/js/787.28cb0dcd.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.073c9b0a.css",
-    "static/js/main.a941d42e.js"
+    "static/js/main.88d69075.js"
   ]
 }
