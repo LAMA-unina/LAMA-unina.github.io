@@ -1,16 +1,34 @@
 {
   "files": {
-    "main.css": "/static/css/main.073c9b0a.css",
-    "main.js": "/static/js/main.88d69075.js",
-    "static/js/787.28cb0dcd.chunk.js": "/static/js/787.28cb0dcd.chunk.js",
-    "static/media/logoLAMA.png": "/static/media/logoLAMA.13390ea8766f51fe22b6.png",
+    "main.css": "/static/css/main.ad57fb81.chunk.css",
+    "main.js": "/static/js/main.2b7d8a86.chunk.js",
+    "main.js.map": "/static/js/main.2b7d8a86.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.1f54d7e0.js",
+    "runtime-main.js.map": "/static/js/runtime-main.1f54d7e0.js.map",
+    "static/js/2.df562e7a.chunk.js": "/static/js/2.df562e7a.chunk.js",
+    "static/js/2.df562e7a.chunk.js.map": "/static/js/2.df562e7a.chunk.js.map",
     "index.html": "/index.html",
-    "main.073c9b0a.css.map": "/static/css/main.073c9b0a.css.map",
-    "main.88d69075.js.map": "/static/js/main.88d69075.js.map",
-    "787.28cb0dcd.chunk.js.map": "/static/js/787.28cb0dcd.chunk.js.map"
+    "precache-manifest.eb6f7a5c30b83459847c0bf83b29b60a.js": "/precache-manifest.eb6f7a5c30b83459847c0bf83b29b60a.js",
+    "service-worker.js": "/service-worker.js",
+    "static/css/main.ad57fb81.chunk.css.map": "/static/css/main.ad57fb81.chunk.css.map",
+    "static/js/2.df562e7a.chunk.js.LICENSE.txt": "/static/js/2.df562e7a.chunk.js.LICENSE.txt",
+    "static/media/style.scss": "/static/media/illustration-section-02.63d0555d.svg",
+    "static/media/feature-tile-icon-01.svg": "/static/media/feature-tile-icon-01.0f9928d7.svg",
+    "static/media/feature-tile-icon-02.svg": "/static/media/feature-tile-icon-02.bd39f304.svg",
+    "static/media/feature-tile-icon-03.svg": "/static/media/feature-tile-icon-03.66f37ba5.svg",
+    "static/media/feature-tile-icon-04.svg": "/static/media/feature-tile-icon-04.836acd10.svg",
+    "static/media/feature-tile-icon-05.svg": "/static/media/feature-tile-icon-05.fa9ba00b.svg",
+    "static/media/feature-tile-icon-06.svg": "/static/media/feature-tile-icon-06.6a177696.svg",
+    "static/media/features-split-image-01.png": "/static/media/features-split-image-01.d9cb99ce.png",
+    "static/media/features-split-image-02.png": "/static/media/features-split-image-02.3c569239.png",
+    "static/media/features-split-image-03.png": "/static/media/features-split-image-03.87e4d053.png",
+    "static/media/lama.png": "/static/media/lama.5d17e8a1.png",
+    "static/media/video-placeholder.jpg": "/static/media/video-placeholder.a622fc5d.jpg"
   },
   "entrypoints": [
-    "static/css/main.073c9b0a.css",
-    "static/js/main.88d69075.js"
+    "static/js/runtime-main.1f54d7e0.js",
+    "static/js/2.df562e7a.chunk.js",
+    "static/css/main.ad57fb81.chunk.css",
+    "static/js/main.2b7d8a86.chunk.js"
   ]
 }
